@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png",TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493.png" group-title="Haberler",TRT Haber HD
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" group-title="Spor",TRT Spor HD
+http://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" group-title="Çocuk",TRT Çocuk HD
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT Türk" tvg-name="TRT Türk" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" group-title="Ulusal",TRT Türk HD
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="Belgesel",TRT Belgesel HD
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Türkçe" tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/k7-red-logo.png" group-title="Ulusal",Kanal 7 HD
+http://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist.m3u8
+
+
+
+
+
+
