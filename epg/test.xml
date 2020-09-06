@@ -1,6 +1,6 @@
-<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V1.57 -- Jan van Straaten" site="digiturk.com.tr">
-<channels>
-<channel update="i" site="digiturk.com.tr" site_id="483" xmltv_id="Digi">Digi</channel>
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V1.57 -- Jan van Straaten">
+
+<channel update="i" site="digiturk.com.tr" site_id="483" id="TRT 1">TRT 1</channel>
 <channel update="i" site="digiturk.com.tr" site_id="484" xmltv_id="Digi">Digi</channel>
 <channel update="i" site="digiturk.com.tr" site_id="377" xmltv_id="Dizimax Sci-fi">Dizimax Sci-fi</channel>
 <channel update="i" site="digiturk.com.tr" site_id="43" xmltv_id="Dizimax Comedy">Dizimax Comedy</channel>
@@ -186,5 +186,4 @@
 <channel update="i" site="digiturk.com.tr" site_id="380" xmltv_id="Radyo Viva">Radyo Viva</channel>
 <channel update="i" site="digiturk.com.tr" site_id="422" xmltv_id="Baba Radyo">Baba Radyo</channel>
 <channel update="i" site="digiturk.com.tr" site_id="107" xmltv_id="5+1 Concerts">5+1 Concerts</channel>
-</channels>
-</site>
+</tv>
