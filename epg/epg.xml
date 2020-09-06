@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.MarvelIPTV.com">
-<channel id="1">
+<channel id="TRT 1 HD">
     <display-name lang="tr">TRT 1 HD</display-name>
     <icon src="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png" />
     <url>https://www.trt1.com.tr/yayin-akisi</url>
