@@ -5,10 +5,10 @@
     <icon src="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png" />
     <url>https://www.trt1.com.tr/yayin-akisi</url>
   </channel>
-  <programme start="20200906170000" stop="20200906200000" channel="TRT 1 HD">
+  <programme start="20200907170000 +0300" stop="20200907200000 +0300" channel="TRT 1 HD">
     <title lang="tr">İncir Ağacı</title>
     <desc lang="tr">Ocak ailesi, 70’li yıllarda İstanbul’da yaşayan bir ailedir. Cemal Ocak sahip olduğu oto tamir dükkanı ile eşi ve dört çocuğunu geçindirmeye çalışmaktadır. Karısı Neriman daha iyi bir hayat hayali ile bazen çocuklarını yanlış yönlendirse de eşinin en büyük destekçisidir. Cemal Ocak için aile her şeydir ancak farklı hayallere sahip dört çocuğu yanlış yollara gitmeye çalıştıkça aile içindeki sıkıntılar kaçınılmaz olacaktır. Ocak ailesi türlü sıkıntılarla uğraşırken Cemal Usta ise başlarına gelen bütün felaketlere rağmen son ana kadar ailesini bir arada tutmaya ve evlatlarını koşulsuz, şartsız korumaya çalışır. Evlatlarına bırakmak istediği en büyük miras aile şerefidir.</desc>
-    <category lang="tr">Dizi</category>
+    <category lang="tr">Ulusal</category>
     <video>
       <aspect>16:9</aspect>
     </video>
