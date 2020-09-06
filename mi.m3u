@@ -1,63 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png",TRT 1 HD
+
+#EXTINF:-1, tvg-id="1" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493.png" group-title="Haberler",TRT Haber HD
+
+#EXTINF:-1, tvg-id="TRT Haber" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" group-title="Spor",TRT Spor HD
+
+#EXTINF:-1, tvg-id="TRT Spor" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
 http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" group-title="Çocuk",TRT Çocuk HD
+
+#EXTINF:-1, tvg-id="TRT Çocuk" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" tvg-name="TRT Çocuk HD"  group-title="Çocuk",TRT Çocuk HD
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT Türk" tvg-name="TRT Türk" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" group-title="Ulusal",TRT Türk HD
+
+#EXTINF:-1, tvg-id="TRT Türk" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="Belgesel",TRT Belgesel HD
+
+#EXTINF:-1, tvg-id="TRT Belgesel" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" tvg-name="TRT Belgesel HD"  group-title="Belgesel",TRT Belgesel HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1 tvg-id="Star TV" tvg-name="Star TV" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" group-title="Ulusal",Star TV HD
+
+#EXTINF:-1, tvg-id="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV 8" tvg-name="TV 8" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8 HD
+
+#EXTINF:-1, tvg-id="TV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
 https://tv.kuzeytv.com/hls/tv8.m3u8
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" group-title="Ulusal",Kanal D HD
+
+#EXTINF:-1, tvg-id="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
 https://tv.kuzeytv.com/hls/kanald.m3u8
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Türkçe" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png" group-title="Ulusal",Show TV HD
+
+#EXTINF:-1, tvg-id="Show TV" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
 https://tv.kuzeytv.com/hls/show.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Ulusal",ATV HD
+
+#EXTINF:-1, tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Ulusal",FOX HD
+
+#EXTINF:-1, tvg-id="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 https://tv.kuzeytv.com/hls/fox.m3u8
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Haber",NTV HD
+
+#EXTINF:-1, tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="Ulusal",TLC HD
+
+#EXTINF:-1, tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="Powertürk" tvg-name="Powertürk" tvg-language="Türkçe" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=427" group-title="Müzik",Powertürk HD
+
+#EXTINF:-1, tvg-id="Powertürk" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=427" tvg-name="Powertürk HD"  group-title="Müzik",Powertürk HD
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN Türk" tvg-name="CNN Türk" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" group-title="Haber",CNN Türk HD
+
+#EXTINF:-1, tvg-id="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
 https://tv.kuzeytv.com/hls/cnnturk.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Çocuk",Cartoon Network HD
+
+#EXTINF:-1, tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network HD"  group-title="Çocuk",Cartoon Network HD
 https://streams.livetv.az/turk/cartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Çocuk",Disney Channel HD
+
+#EXTINF:-1, tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" tvg-name="Disney Channel HD"  group-title="Çocuk",Disney Channel HD
 https://streams.livetv.az/turk/disney/playlist.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-language="Türkçe" tvg-logo="https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/default.png" group-title="Ulusal",360 HD
+
+#EXTINF:-1, tvg-id="360" tvg-logo="https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/default.png" tvg-name="360 HD"  group-title="Ulusal",360 HD
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="Ulusal",TV2 HD
+
+#EXTINF:-1, tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-name="TV2 HD"  group-title="Ulusal",TV2 HD
 https://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
