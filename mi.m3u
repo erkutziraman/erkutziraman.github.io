@@ -9,7 +9,7 @@ https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1, tvg-id="TRT Spor" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
 http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8
 
-#EXTINF:-1, tvg-id="TRT Çocuk" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" tvg-name="TRT Çocuk HD"  group-title="Çocuk",TRT Çocuk HD
+#EXTINF:-1, tvg-id="TRT Çocuk HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" tvg-name="TRT Çocuk HD"  group-title="Çocuk",TRT Çocuk HD
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1, tvg-id="TRT Türk" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
