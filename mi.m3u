@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png",TRT 1 HD
-https://tv-trt1.live.trt.com.tr/master.m3u8
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493.png" group-title="Haberler",TRT Haber HD
-https://tv-trthaber.live.trt.com.tr/master.m3u8
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" group-title="Spor",TRT Spor HD
 http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Türkçe" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" group-title="Çocuk",TRT Çocuk HD
@@ -22,7 +22,7 @@ https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Ulusal",ATV HD
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Ulusal",FOX HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+https://tv.kuzeytv.com/hls/fox.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Haber",NTV HD
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Türkçe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="Ulusal",TLC HD
