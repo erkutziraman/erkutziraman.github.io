@@ -60,3 +60,6 @@ http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:-1, tvg-id="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-name="TV2 HD"  group-title="Ulusal",TV2 HD
 http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2805
 
+#EXTINF:-1, tvg-id="Rai 4 HD" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662992107Logo-Rai4.png" tvg-name="Rai 4 HD"  group-title="İtalyan",Rai 4 HD
+http://seeyoutv.net:2300/roma/roma/10601
+
