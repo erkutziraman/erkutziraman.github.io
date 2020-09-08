@@ -4,7 +4,7 @@
 https://tv-trt1.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT Haber HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TRT Spor HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
