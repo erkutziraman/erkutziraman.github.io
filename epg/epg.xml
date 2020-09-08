@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.MarvelIPTV.com">
 <channel id="TRT 1 HD"></channel>
 <channel id="TRT Haber HD"></channel>
+<channel id="ATV HD"></channel>
     <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
     <title lang="tr">TRT 1 - Haber - Dizi - Sinema</title>
     <desc lang="tr">Türkiye'nin En Çok İzlenen Lider Kanalı - Dizi - Belgesel - Haber - Spor - Sinema - Belgesel izleyebileceğiz kanal olmaya devam ediyor.</desc>
@@ -10,4 +11,8 @@
     <title lang="tr">TRT Haber - Türkiye'nin haber kaynağı</title>
     <desc lang="tr">TRT Haber, TRT tarafından 18 Mart 2010 tarihinde TRT 2'nin önceki frekansında yayına başlamasıyla kurulan haber kanalıdır. 18 Kasım 2013 tarihinde logosunu ve stüdyolarını değiştirip eş zamanlı HD Yayına geçmiştir.</desc>
     </programme>
+     <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="ATV HD">
+    <title lang="tr">Dizi atv'de izlenir</title>
+         <desc lang="tr">ATV, Turkuvaz Medya Grubu bünyesinde Türkiye'de yayın yapan ulusal televizyon kanallarından biridir. Tüm Türkiye'ye yayın yapan ulusal kanal, genelde dizi filmleriyle ön plana çıkmıştır. Kanalın genel yayın yönetmeni Metin Ergen'dir.</desc>
+        </programme>
 </tv>
