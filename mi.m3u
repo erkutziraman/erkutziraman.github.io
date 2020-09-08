@@ -4,34 +4,34 @@
 https://tv-trt1.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT Haber HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
+https://tv-trthaber.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT Spor HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
-http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT Çocuk HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" tvg-name="TRT Çocuk HD"  group-title="Çocuk",TRT Çocuk HD
-http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT Türk HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2789
+http://tv-trtturk.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT Belgesel HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" tvg-name="TRT Belgesel HD"  group-title="Belgesel",TRT Belgesel HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2747
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="Star TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TV 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2762
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Show TV HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2754
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2786
+https://mn-nl.mncdn.com/blutv_atvhd/smil:atvhd_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2774
