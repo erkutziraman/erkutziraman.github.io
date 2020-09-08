@@ -34,22 +34,22 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2774
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2759
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2784
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
 #EXTINF:-1, tvg-id="Powertürk HD" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=427" tvg-name="Powertürk HD"  group-title="Müzik",Powertürk HD
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CNN Türk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2778
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network HD"  group-title="Çocuk",Cartoon Network HD
-https://streams.livetv.az/turk/cartoon/playlist.m3u8
+http://streams2.livetv.az/turk/cartoon/chunks.m3u8
 
 #EXTINF:-1, tvg-id="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" tvg-name="Disney Channel HD"  group-title="Çocuk",Disney Channel HD
 https://streams.livetv.az/turk/disney/playlist.m3u8
@@ -58,7 +58,7 @@ https://streams.livetv.az/turk/disney/playlist.m3u8
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 
 #EXTINF:-1, tvg-id="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-name="TV2 HD"  group-title="Ulusal",TV2 HD
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2805
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd2.smil/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="Rai 4 HD" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662992107Logo-Rai4.png" tvg-name="Rai 4 HD"  group-title="İtalyan",Rai 4 HD
 http://seeyoutv.net:2300/roma/roma/10601
