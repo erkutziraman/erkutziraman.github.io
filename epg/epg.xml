@@ -71,4 +71,28 @@
     <title lang="tr">NTV HABER - Haberler, Son Dakika Haberleri</title>
          <desc lang="tr">NTV, 1996 yılında Cavit Çağlar tarafından kurulan, Türkiye'nin ilk haber kanalıdır. Ocak 1999'da Doğuş Yayın Grubu bünyesine katılarak yakaladığı başarı ile Türk medya endüstrisini değiştiren NTV, Türkiye'de tematik kanal dönemini başlattı.</desc>
     </programme>
+      <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="TLC HD">
+    <title lang="tr">TLC TV dizi ve programlarını takip etmek için ziyaret edin.</title>
+         <desc lang="tr">TLC, Discovery Communications'ın Türkiye'de 6 Kasım 2015'te CNBC-e'nin yerine kurduğu kurgu, yaşam tarzı ve reality şovlar yayınlayan televizyon kanalıdır.</desc>
+    </programme>
+     <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="Powertürk HD">
+    <title lang="tr">PowerTürk - Önce Müzik - PowerApp</title>
+         <desc lang="tr">Powertürk veya Powertürk Radyo, merkezi İstanbul'da olan, "Power Media Group"'a bağlı ulusal çapta yayın yapan radyo istasyonu. 1 Şubat 2001 tarihinde kurulmuştur. Ayrıca Türksat üzerinden Teledünya, Digiturk ve D-Smart platformu üzerinden de dinlenebilmektedir.</desc>
+    </programme>
+    <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="CNN Türk HD">
+    <title lang="tr">CNN TÜRK Haber - Son Dakika Haberler</title>
+         <desc lang="tr">CNN Türk, Amerikalı CNN şirketi ve Demirören Holding bünyesinde yayın yapan haber kanalı. Merkezi İstanbul'da olan kanalın en bilinen programları arasında 5N1K, Bir Yudum İnsan ve Oradaydım gibi yapımlar yer alır.</desc>
+    </programme>
+    <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="Cartoon Network HD">
+    <title lang="tr">Cartoon Network</title>
+         <desc lang="tr">Cartoon Network Türkiye, TBS Avrupa tarafından Turner Entertainment kullanılarak 1992'de yayına sokulmuş uluslararası bir çizgi film kanalı olan Cartoon Network'ün Türkiye, Kuzey Kıbrıs Türk Cumhuriyeti, Azerbaycan'da yayın yapan bir koludur.</desc>
+    </programme>
+     <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="360 HD">
+    <title lang="tr">360 TV</title>
+         <desc lang="tr">60, TürkMedya bünyesinde yayın yapan bir televizyon kanalı.</desc>
+    </programme>
+      <programme start="20200907000000 +0100" stop="20210907004500 +0100" channel="TV2 HD">
+    <title lang="tr">Teve 2</title>
+         <desc lang="tr">teve2, 18 Ağustos 2012'de yayına başlayan Demirören Holding'e bağlı televizyon kanalı. Kanal, Turner Broadcasting System'in TNT'yi Türkiye'den çekme kararı alması nedeniyle yayın haklarını Doğan Yayın Grubu'na satması sonucunda kurulmuştur.</desc>
+    </programme>
 </tv>
