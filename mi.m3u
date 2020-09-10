@@ -71,3 +71,6 @@ https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/ma
 
 #EXTINF:-1, tvg-id="beIN Movies Premiere HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" tvg-name="beIN Movies Premiere HD"  group-title="Ulusal",beIN Movies Premiere HD
 http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2815.m3u8
+
+#EXTINF:-1, tvg-id="National Geographic HD" tvg-logo="https://www.nationalgeographic.it/images/logo.png" tvg-name="National Geographic HD"  group-title="Ulusal",National Geographic HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2803.m3u8
