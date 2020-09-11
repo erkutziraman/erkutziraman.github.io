@@ -31,7 +31,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd2.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-http://afatsum.webhop.net:3838/hamdiarikan1901/3GJc1sPeSm/4
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2786.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd2.smil/playlist.m3u8
