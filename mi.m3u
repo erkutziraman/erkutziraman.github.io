@@ -6,9 +6,6 @@ https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1, tvg-id="TRT Haber HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.16.11/82e79874979d4aaa88f97495cd4f2493.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT Spor HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
-https://tv-trtspor1.live.trt.com.tr/master.m3u8
-
 #EXTINF:-1, tvg-id="TRT Çocuk HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" tvg-name="TRT Çocuk HD"  group-title="Çocuk",TRT Çocuk HD
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
@@ -16,28 +13,28 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 http://tv-trtturk.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT Belgesel HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" tvg-name="TRT Belgesel HD"  group-title="Belgesel",TRT Belgesel HD
-http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="Star TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+http://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="TV 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+https://tv8.personamedia.tv/tv8?sid=388b208c-5d8e-4ad9-86a4-d5e635ac74ce
 
 #EXTINF:-1, tvg-id="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600649500/ei/vKRnX4PZNZesgQeu6qD4Bg/ip/79.27.93.247/id/6S8AdYmFXGI.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/it/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM5gVQ3eD7fMShqfDV9YZNPCqRxW_FjE7sVUnk0d92D_AiBXLHzUAdofVL3us7Uz2MptBbY-QJcstgOPJ_PSxk3AyQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="Show TV HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600649697/ei/gKVnX9blNJmH8gOm5J_ICA/ip/79.27.93.247/id/inOugVa_NYA.240/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/it/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOx00YO1DEs9EDsg-LBkNm_aYpUg4G2fO9tGxyYLcQvvAiEAtE0tIHpwUeISIgZ3iZYX4dubzus3iSsK3gNUUY0_rz0%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-http://ch.canlitvlive.io/atv/live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600649903/ei/T6ZnX9TgEJTF1wLmxI6ICg/ip/79.27.93.247/id/7O5ngsRT_rA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/it/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFjvcHq7gaImgHKaIka4i1GX3fPRHmhBffb4vNnkzydkCIQDpckfMYm2_cW_SBtKcCh4uDER7IEJ7nHV3X2cBS9KaAA%3D%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv.m3u8?e=1600673485&st=BGIz9gwkD5sUQpArCQR31w
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600650465/ei/gahnX47GGoql1gL5nJ_YBw/ip/79.27.93.247/id/XEJM4Hcgd3M.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMnUFKiVq-c5eN3-dK_HoGheKsHt_m7sDhpyiwsaeojsCIQD1ee3wT0ezVedqBxkoLiVFVHWi8-huQCeCm5gfJSdOsg%3D%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
@@ -46,16 +43,13 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CNN Türk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600650932/ei/VKpnX6DhFcWngAfapZOACw/ip/79.27.93.247/id/L-zIpCNI9TU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAlMl6s9hgcv1bJz0jzrQV8PyxkxNggVllMt8BGEuyu4CIEfGK7B-HtTjCj_LHWBtUrPlxJ3Waxr9F084GCbKvqYl/file/index.m3u8
 
 #EXTINF:-1, tvg-id="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" tvg-name="Disney Channel HD"  group-title="Çocuk",Disney Channel HD
 https://streams.livetv.az/turk/disney/playlist.m3u8
 
 #EXTINF:-1, tvg-id="360 HD" tvg-logo="https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/default.png" tvg-name="360 HD"  group-title="Ulusal",360 HD
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
-
-#EXTINF:-1, tvg-id="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-name="TV2 HD"  group-title="Ulusal",TV2 HD
-https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="24 HD" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
