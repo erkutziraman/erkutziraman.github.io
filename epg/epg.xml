@@ -16,7 +16,6 @@
     <channel id="TLC HD"></channel>
     <channel id="Powertürk HD"></channel>
     <channel id="CNN Türk HD"></channel>
-    <channel id="Cartoon Network HD"></channel>
     <channel id="360 HD"></channel>
     <channel id="TV2 HD"></channel>
     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
@@ -82,10 +81,6 @@
     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="CNN Türk HD">
     <title lang="tr">CNN TÜRK Haber - Son Dakika Haberler</title>
          <desc lang="tr">CNN Türk, Amerikalı CNN şirketi ve Demirören Holding bünyesinde yayın yapan haber kanalı. Merkezi İstanbul'da olan kanalın en bilinen programları arasında 5N1K, Bir Yudum İnsan ve Oradaydım gibi yapımlar yer alır.</desc>
-    </programme>
-    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Cartoon Network HD">
-    <title lang="tr">Cartoon Network</title>
-         <desc lang="tr">Cartoon Network Türkiye, TBS Avrupa tarafından Turner Entertainment kullanılarak 1992'de yayına sokulmuş uluslararası bir çizgi film kanalı olan Cartoon Network'ün Türkiye, Kuzey Kıbrıs Türk Cumhuriyeti, Azerbaycan'da yayın yapan bir koludur.</desc>
     </programme>
      <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="360 HD">
     <title lang="tr">360 TV</title>
