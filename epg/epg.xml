@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.MarvelIPTV.com">
 <channel id="TRT 1 HD"></channel>
 <channel id="TRT Haber HD"></channel>
-    <channel id="TRT Spor HD"></channel>
     <channel id="TRT Çocuk HD"></channel>
     <channel id="TRT Türk HD"></channel>
     <channel id="TRT Belgesel HD"></channel>
@@ -25,10 +24,6 @@
     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT Haber HD">
     <title lang="tr">TRT Haber - Türkiye'nin haber kaynağı</title>
     <desc lang="tr">TRT Haber, TRT tarafından 18 Mart 2010 tarihinde TRT 2'nin önceki frekansında yayına başlamasıyla kurulan haber kanalıdır. 18 Kasım 2013 tarihinde logosunu ve stüdyolarını değiştirip eş zamanlı HD Yayına geçmiştir.</desc>
-    </programme>
-     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT Spor HD">
-    <title lang="tr">TRT Spor - Türkiye`nin güncel spor haber kaynağı</title>
-         <desc lang="tr">TRT 3, 2 Ekim 1989'da kurulan Türkiye Radyo Televizyon Kurumu'na bağlı olarak yayın hayatına başlamıştır. TRT 3, Türkiye'nin gençlere ve genç yetişkinlere yönelik bir eğlence kanalıdır. Gençlik alanında televizyon programları, yabancı film ve dizileri Türkçe dil desteğiyle yayın yapmaktadır.</desc>
     </programme>
     <programme start="20200900200000 +0100" stop="20210907004500 +0100" channel="TRT Çocuk HD">
     <title lang="tr">TRT Çocuk</title>
@@ -85,9 +80,5 @@
      <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="360 HD">
     <title lang="tr">360 TV</title>
          <desc lang="tr">60, TürkMedya bünyesinde yayın yapan bir televizyon kanalı.</desc>
-    </programme>
-      <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TV2 HD">
-    <title lang="tr">Teve 2</title>
-         <desc lang="tr">teve2, 18 Ağustos 2012'de yayına başlayan Demirören Holding'e bağlı televizyon kanalı. Kanal, Turner Broadcasting System'in TNT'yi Türkiye'den çekme kararı alması nedeniyle yayın haklarını Doğan Yayın Grubu'na satması sonucunda kurulmuştur.</desc>
     </programme>
 </tv>
