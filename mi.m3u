@@ -28,7 +28,7 @@ https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-https://cdn.dogannet.tv/S1/HLS_LIVE/atv/1000/prog_index.m3u8
+https://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
@@ -43,7 +43,7 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CNN Türk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
-https://cdn.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" tvg-name="Disney Channel HD"  group-title="Çocuk",Disney Channel HD
 https://streams.livetv.az/turk/disney/playlist.m3u8
