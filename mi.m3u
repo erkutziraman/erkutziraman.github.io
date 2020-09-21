@@ -19,7 +19,7 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b20
 http://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="TV 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
-https://tv8.personamedia.tv/tv8?sid=388b208c-5d8e-4ad9-86a4-d5e635ac74ce
+https://tv.kuzeytv.com/hls/tv8.m3u8
 
 #EXTINF:-1, tvg-id="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
@@ -28,10 +28,10 @@ https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 https://ciner-live.ercdn.net/showtv/playlist.m3u8?e=1600716295&st=pF7MycLgoWztSaF-YVc4Sg&tv=1
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600649903/ei/T6ZnX9TgEJTF1wLmxI6ICg/ip/79.27.93.247/id/7O5ngsRT_rA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/it/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFjvcHq7gaImgHKaIka4i1GX3fPRHmhBffb4vNnkzydkCIQDpckfMYm2_cW_SBtKcCh4uDER7IEJ7nHV3X2cBS9KaAA%3D%3D/file/index.m3u8
+http://ch.canlitvlive.io/atv/live.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
-https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=orSTMOxj6iM5s5IwaQ_SLA&e=1600705739
+https://tv.kuzeytv.com/hls/fox.m3u8
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
 https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/chunklist_b2064000.m3u8
