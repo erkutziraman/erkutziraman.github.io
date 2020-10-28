@@ -49,7 +49,7 @@ https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
 https://streams.livetv.az/turk/disney/playlist.m3u8
 
 #EXTINF:-1, tvg-id="360 HD" tvg-logo="https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/default.png" tvg-name="360 HD"  group-title="Ulusal",360 HD
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+http://live.stargrouptv.com:5115/ivicakaticnet/5kMsbhW699/4728
 
 #EXTINF:-1, tvg-id="24 HD" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
