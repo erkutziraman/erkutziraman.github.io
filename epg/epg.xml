@@ -17,11 +17,11 @@
     <channel id="CNN Türk HD"></channel>
     <channel id="360 HD"></channel>
     <channel id="TV2 HD"></channel>
-    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
+    <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
     <title lang="tr">TRT 1 - Haber - Dizi - Sinema</title>
     <desc lang="tr">Türkiye'nin En Çok İzlenen Lider Kanalı - Dizi - Belgesel - Haber - Spor - Sinema - Belgesel izleyebileceğiz kanal olmaya devam ediyor.</desc>
     </programme>
-    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT Haber HD">
+    <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT Haber HD">
     <title lang="tr">TRT Haber - Türkiye'nin haber kaynağı</title>
     <desc lang="tr">TRT Haber, TRT tarafından 18 Mart 2010 tarihinde TRT 2'nin önceki frekansında yayına başlamasıyla kurulan haber kanalıdır. 18 Kasım 2013 tarihinde logosunu ve stüdyolarını değiştirip eş zamanlı HD Yayına geçmiştir.</desc>
     </programme>
