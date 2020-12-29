@@ -16,25 +16,25 @@ http://tv-trtturk.live.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="Star TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
-https://www.youtube.com/watch?v=APbEMxrFjXo
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TV 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Show TV HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
-https://www.youtube.com/watch?v=inOugVa_NYA
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-https://www.youtube.com/watch?v=s4aKRcNTJZA
+http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/1076
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
-https://www.youtube.com/watch?v=XEJM4Hcgd3M
+https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
@@ -43,16 +43,13 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
 
 #EXTINF:-1, tvg-id="CNN Türk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
-https://www.youtube.com/watch?v=NpRyZeWsM8o
-
-#EXTINF:-1, tvg-id="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" tvg-name="Disney Channel HD"  group-title="Çocuk",Disney Channel HD
-https://streams.livetv.az/turk/disney/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="360 HD" tvg-logo="https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/default.png" tvg-name="360 HD"  group-title="Ulusal",360 HD
-https://www.youtube.com/watch?v=UCRgh8NXS0g
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="24 HD" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
-https://www.youtube.com/watch?v=ntqvbID4Ad0
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" tvg-name="DMAX HD"  group-title="Belgesel",DMAX HD
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
