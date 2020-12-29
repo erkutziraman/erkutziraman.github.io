@@ -25,19 +25,19 @@
     <title lang="tr">TRT Haber - Türkiye'nin haber kaynağı</title>
     <desc lang="tr">TRT Haber, TRT tarafından 18 Mart 2010 tarihinde TRT 2'nin önceki frekansında yayına başlamasıyla kurulan haber kanalıdır. 18 Kasım 2013 tarihinde logosunu ve stüdyolarını değiştirip eş zamanlı HD Yayına geçmiştir.</desc>
     </programme>
-    <programme start="20200900200000 +0100" stop="20210907004500 +0100" channel="TRT Çocuk HD">
+    <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT Çocuk HD">
     <title lang="tr">TRT Çocuk</title>
          <desc lang="tr">TRT Çocuk, TRT'nin çocuk kanalıdır, 24 saat yayın yapmaktadır. 24 Ekim 2008 Cuma günü test yayınına 1 Kasım 2008 tarihinde normal yayınına 1 Ocak 2017 tarihinde ise HD yayına başlamıştır. Kanal kısa bir süreliğine TRT 4 ile dönüşümlü yayın yapmıştır. Kanal sonra TRT OKUL kanalı ile dönüşümlü yayın yapmıştır.</desc>
     </programme>
-     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT Türk HD">
+     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT Türk HD">
     <title lang="tr">TRT Türk kanalı içerikleri haberler ve daha fazlası.</title>
          <desc lang="tr">TRT Türk, TRT'nin yurt dışındaki Türklere yönelik uluslararası genel içerikli yayın yapan televizyon kanalıdır. Genelde TRT 1 kanalı ile ortak yayın yapmaktadır. Kanalda kendine özgü programlar da yayınlanmaktadır. Kanal Dünya çapında saatine göre yayın yapmaktadır.</desc>
     </programme>
-      <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT Belgesel HD">
+      <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT Belgesel HD">
     <title lang="tr">TRT Belgesel'i Keşfet. Kültür, tarih, bilim, suç ve macera konularındaki eşsiz belgesellerimizle sizlerleyiz.</title>
          <desc lang="tr">TRT Belgesel, çeşitli belgesel formatındaki programların yayınlandığı kanal. Kanal ilk yayın formatında TRT bünyesinde 6 farklı dilde yayın yapan tematik bir televizyon kanal olarak tasarlanmış ve bu şekilde yayın yapmıştır. 17 Ekim 2009 tarihinde "TRT Turizm ve Belgesel" adıyla test yayınına başladı.</desc>
     </programme>
-     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Star TV HD">
+     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="Star TV HD">
     <title lang="tr">Startv.com.tr'yi Star TV dizilerini ve programlarını takip etmek için ziyaret edin. Dizi ve program bölümlerini full ve hd kalitesinde izleyin.</title>
          <desc lang="tr">Star TV, Doğuş Yayın Grubu bünyesinde Türkiye'de yayın yapan ulusal televizyon kanalıdır. Star TV'nin genel yayın yönetmeni Ömer Özgüner'dir.</desc>
     </programme>
