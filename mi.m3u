@@ -45,8 +45,8 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_s
 #EXTINF:-1, tvg-id="CNN Türk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="360 HD" tvg-logo="https://imgs.turkmedya.com.tr/gorseller/YazarFotos/program/default.png" tvg-name="360 HD"  group-title="Ulusal",360 HD
-https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="Teve2 HD" tvg-logo="https://www.demiroren.com.tr/ProjectImages/companies-image-13.png" tvg-name="Teve2 HD"  group-title="Ulusal",360 HD
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="24 HD" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
