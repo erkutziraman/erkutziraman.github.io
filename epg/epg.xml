@@ -15,8 +15,12 @@
     <channel id="TLC HD"></channel>
     <channel id="Powertürk HD"></channel>
     <channel id="CNN Türk HD"></channel>
-    <channel id="360 HD"></channel>
-    <channel id="Teve 2 HD"></channel>
+    <channel id="Teve2 HD"></channel>
+    <channel id="DMAX HD"></channel>
+    <channel id="Tgrt Haber HD"></channel>
+    <channel id="Tgrt Belgesel HD"></channel>
+    <channel id="Habertürk HD"></channel>
+    <channel id="TV100 HD"></channel>
     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
     <title lang="tr">TRT 1 - Haber - Dizi - Sinema</title>
     <desc lang="tr">Türkiye'nin En Çok İzlenen Lider Kanalı - Dizi - Belgesel - Haber - Spor - Sinema - Belgesel izleyebileceğiz kanal olmaya devam ediyor.</desc>
@@ -77,8 +81,28 @@
     <title lang="tr">CNN TÜRK Haber - Son Dakika Haberler</title>
          <desc lang="tr">CNN Türk, Amerikalı CNN şirketi ve Demirören Holding bünyesinde yayın yapan haber kanalı. Merkezi İstanbul'da olan kanalın en bilinen programları arasında 5N1K, Bir Yudum İnsan ve Oradaydım gibi yapımlar yer alır.</desc>
     </programme>
-     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Teve 2 HD">
-    <title lang="tr">Teve 2 HD</title>
+     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Teve2 HD">
+    <title lang="tr">Teve2 HD</title>
          <desc lang="tr">teve2, 18 Ağustos 2012'de yayına başlayan Demirören Holding'e bağlı televizyon kanalı. Kanal, Turner Broadcasting System'in TNT'yi Türkiye'den çekme kararı alması nedeniyle yayın haklarını Doğan Yayın Grubuna satması sonucunda kurulmuştur.</desc>
+    </programme>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="DMAX HD">
+    <title lang="tr">DMAX HD</title>
+         <desc lang="tr">DMAX, Discovery Communications'ın Türkiye'de 17 Mart 2018'de NTV Spor'un yerine kurduğu yaşam tarzı ve eğlence içerikli televizyon kanalı.</desc>
+    </programme>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Habertürk HD">
+    <title lang="tr">HABERTÜRK - Flaş gelişme ve en son haberler</title>
+         <desc lang="tr">Habertürk, Ciner Yayın Holding bünyesinde 1 Mart 2009 tarihinde yayın hayatına başlayan günlük gazeteydi. Son sayısı 5 Temmuz 2018'de çıktı.</desc>
+    </programme>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Tgrt Haber HD">
+    <title lang="tr">TGRT Haber, Daima öncü</title>
+         <desc lang="tr">TGRT Haber, İhlas Holding bünyesinde bulunan bir haber kanalı. 29 Ekim 2004 tarihinde yayın hayatına başlamıştır. TGRT'nin Amerikalı News Corporation şirketine satılmasına karşın kanal, kardeş kanalları TGRT Pazarlama ve TGRT FM ile birlikte İhlas Holding bünyesinde yayın yapmaktadır.</desc>
+    </programme>
+     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Tgrt Belgesel HD">
+    <title lang="tr">TGRT Belgesel HD</title>
+         <desc lang="tr">TGRT, Türkiye'de özel televizyonculuğun ilk yıllarında İhlas Holding tarafından 22 Nisan 1993 tarihinde açılmıştır. Yayın hakları 25 Temmuz 2006 tarihinde Amerikalı News Corporation şirketine satılan kanal, FOX olarak yayınlarını sürdürürken, TGRT'ye ait Karasal yayın frekansları ve yayın haklarının birçoğu satıldı.</desc>
+    </programme>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TV100 HD">
+    <title lang="tr">TV100 HD</title>
+         <desc lang="tr">TV100, 3N Medya bünyesinde yayın yapan haber kanalı. Sahibi iş insanı Necat Gülseven'dir. Kanal, 15 Temmuz 2014 tarihinde dönemin Balıkesir Büyükşehir Belediye Başkanı Ahmet Edip Uğur'un oğlu İsmail Uğur tarafından Balıkesir'de kuruldu. Eylül 2018'de Alican Değer'e satıldı.</desc>
     </programme>
 </tv>
