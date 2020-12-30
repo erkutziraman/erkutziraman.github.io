@@ -63,6 +63,5 @@ https://canli.ensonhaber.com/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1, tvg-id="Habertürk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" tvg-name="Habertürk HD"  group-title="Haber",Habertürk HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
 
-
-
-
+#EXTINF:-1, tvg-id="TV100 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" tvg-name="TV100 HD"  group-title="Haber",TV100 HD
+http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66267
