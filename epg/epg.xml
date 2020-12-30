@@ -16,7 +16,7 @@
     <channel id="Powertürk HD"></channel>
     <channel id="CNN Türk HD"></channel>
     <channel id="360 HD"></channel>
-    <channel id="TV2 HD"></channel>
+    <channel id="Teve 2 HD"></channel>
     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
     <title lang="tr">TRT 1 - Haber - Dizi - Sinema</title>
     <desc lang="tr">Türkiye'nin En Çok İzlenen Lider Kanalı - Dizi - Belgesel - Haber - Spor - Sinema - Belgesel izleyebileceğiz kanal olmaya devam ediyor.</desc>
@@ -77,8 +77,8 @@
     <title lang="tr">CNN TÜRK Haber - Son Dakika Haberler</title>
          <desc lang="tr">CNN Türk, Amerikalı CNN şirketi ve Demirören Holding bünyesinde yayın yapan haber kanalı. Merkezi İstanbul'da olan kanalın en bilinen programları arasında 5N1K, Bir Yudum İnsan ve Oradaydım gibi yapımlar yer alır.</desc>
     </programme>
-     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="360 HD">
-    <title lang="tr">360 TV</title>
-         <desc lang="tr">60, TürkMedya bünyesinde yayın yapan bir televizyon kanalı.</desc>
+     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Teve 2 HD">
+    <title lang="tr">Teve 2 HD</title>
+         <desc lang="tr">teve2, 18 Ağustos 2012'de yayına başlayan Demirören Holding'e bağlı televizyon kanalı. Kanal, Turner Broadcasting System'in TNT'yi Türkiye'den çekme kararı alması nedeniyle yayın haklarını Doğan Yayın Grubuna satması sonucunda kurulmuştur.</desc>
     </programme>
 </tv>
