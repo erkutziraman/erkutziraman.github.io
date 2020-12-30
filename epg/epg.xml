@@ -22,6 +22,7 @@
     <channel id="Habertürk HD"></channel>
     <channel id="TV100 HD"></channel>
     <channel id="24 HD"></channel>
+     <channel id="National Geographic HD"></channel>
     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
     <title lang="tr">TRT 1 - Haber - Dizi - Sinema</title>
     <desc lang="tr">Türkiye'nin En Çok İzlenen Lider Kanalı - Dizi - Belgesel - Haber - Spor - Sinema - Belgesel izleyebileceğiz kanal olmaya devam ediyor.</desc>
@@ -109,5 +110,9 @@
     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="24 HD">
     <title lang="tr">24 HD</title>
          <desc lang="tr">24 TV, Ethem Sancak'nın imtiyaz sahibi olduğu TürkMedya bünyesinde bulunan ve 24 Ocak 2007 tarihinde İstanbul merkezli yayın yapmaya başlayan ulusal bir Türk televizyon kanalıdır.</desc>
+    </programme>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="National Geographic HD">
+    <title lang="tr">National Geographic | Bu belgeselleri kaçırma!</title>
+         <desc lang="tr">National Geographic, belgesel kanalıdır. National Geographic Society'nin "araştırma, koruma ve eğitim" ilkelerine tamamen bağlı olan National Geographic, NG Televizyon ve Film, FOX Entertainment Group ve National Broadcasting Company ortaklığıyla kurulmuştur.</desc>
     </programme>
 </tv>
