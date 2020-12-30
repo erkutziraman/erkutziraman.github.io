@@ -21,6 +21,7 @@
     <channel id="Tgrt Belgesel HD"></channel>
     <channel id="Habertürk HD"></channel>
     <channel id="TV100 HD"></channel>
+    <channel id="24 HD"></channel>
     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
     <title lang="tr">TRT 1 - Haber - Dizi - Sinema</title>
     <desc lang="tr">Türkiye'nin En Çok İzlenen Lider Kanalı - Dizi - Belgesel - Haber - Spor - Sinema - Belgesel izleyebileceğiz kanal olmaya devam ediyor.</desc>
@@ -104,5 +105,9 @@
     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TV100 HD">
     <title lang="tr">TV100 HD</title>
          <desc lang="tr">TV100, 3N Medya bünyesinde yayın yapan haber kanalı. Sahibi iş insanı Necat Gülseven'dir. Kanal, 15 Temmuz 2014 tarihinde dönemin Balıkesir Büyükşehir Belediye Başkanı Ahmet Edip Uğur'un oğlu İsmail Uğur tarafından Balıkesir'de kuruldu. Eylül 2018'de Alican Değer'e satıldı.</desc>
+    </programme>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="24 HD">
+    <title lang="tr">24 HD</title>
+         <desc lang="tr">24 TV, Ethem Sancak'nın imtiyaz sahibi olduğu TürkMedya bünyesinde bulunan ve 24 Ocak 2007 tarihinde İstanbul merkezli yayın yapmaya başlayan ulusal bir Türk televizyon kanalıdır.</desc>
     </programme>
 </tv>
