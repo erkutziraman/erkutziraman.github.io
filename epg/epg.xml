@@ -20,7 +20,7 @@
     <channel id="Tgrt Haber HD"></channel>
     <channel id="Tgrt Belgesel HD"></channel>
     <channel id="Habertürk HD"></channel>
-    <channel id="TV100 HD"></channel>
+    <channel id="Discovery HD"></channel>
     <channel id="24 HD"></channel>
      <channel id="National Geographic HD"></channel>
     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
@@ -103,9 +103,9 @@
     <title lang="tr">TGRT Belgesel HD</title>
          <desc lang="tr">TGRT, Türkiye'de özel televizyonculuğun ilk yıllarında İhlas Holding tarafından 22 Nisan 1993 tarihinde açılmıştır. Yayın hakları 25 Temmuz 2006 tarihinde Amerikalı News Corporation şirketine satılan kanal, FOX olarak yayınlarını sürdürürken, TGRT'ye ait Karasal yayın frekansları ve yayın haklarının birçoğu satıldı.</desc>
     </programme>
-    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TV100 HD">
-    <title lang="tr">TV100 HD</title>
-         <desc lang="tr">TV100, 3N Medya bünyesinde yayın yapan haber kanalı. Sahibi iş insanı Necat Gülseven'dir. Kanal, 15 Temmuz 2014 tarihinde dönemin Balıkesir Büyükşehir Belediye Başkanı Ahmet Edip Uğur'un oğlu İsmail Uğur tarafından Balıkesir'de kuruldu. Eylül 2018'de Alican Değer'e satıldı.</desc>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="Discovery HD">
+    <title lang="tr">Discovery HD</title>
+         <desc lang="tr">Discovery programları, belgeseller ve daha fazlasını keşfet. Hayret etmeyi bırakma!</desc>
     </programme>
     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="24 HD">
     <title lang="tr">24 HD</title>
