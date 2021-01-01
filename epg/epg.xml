@@ -22,6 +22,7 @@
     <channel id="Habertürk HD"></channel>
     <channel id="Discovery HD"></channel>
     <channel id="24 HD"></channel>
+    <channel id="TRT Spor HD"></channel>
      <channel id="National Geographic HD"></channel>
     <programme start="20201229000000 +0100" stop="20210907004500 +0100" channel="TRT 1 HD">
     <title lang="tr">TRT 1 - Haber - Dizi - Sinema</title>
@@ -114,5 +115,9 @@
     <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="National Geographic HD">
     <title lang="tr">National Geographic | Bu belgeselleri kaçırma!</title>
          <desc lang="tr">National Geographic, belgesel kanalıdır. National Geographic Society'nin "araştırma, koruma ve eğitim" ilkelerine tamamen bağlı olan National Geographic, NG Televizyon ve Film, FOX Entertainment Group ve National Broadcasting Company ortaklığıyla kurulmuştur.</desc>
+    </programme>
+    <programme start="20200902000000 +0100" stop="20210907004500 +0100" channel="TRT Spor HD">
+    <title lang="tr">TRT Spor</title>
+         <desc lang="tr">TRT 3, 2 Ekim 1989'da kurulan Türkiye Radyo Televizyon Kurumu'na bağlı olarak yayın hayatına başlamıştır. TRT 3, Türkiye'nin gençlere ve genç yetişkinlere yönelik bir eğlence kanalıdır. Gençlik alanında televizyon programları, yabancı film ve dizileri Türkçe dil desteğiyle yayın yapmaktadır.</desc>
     </programme>
 </tv>
