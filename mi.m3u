@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
+#EXTINF:-1, tvg-id="TRT 1" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
