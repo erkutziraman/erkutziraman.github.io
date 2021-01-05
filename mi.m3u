@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="TRT 1" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
+#EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT Haber" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
+#EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT SPOR HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Haber",TRT Spor HD
 https://tv-trtspor1.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT Çocuk" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" tvg-name="TRT Çocuk HD"  group-title="Çocuk",TRT Çocuk HD
+#EXTINF:-1, tvg-id="TRT ÇOCUK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.18.36/22fa8c432fe245a796cff18a36745381.png" tvg-name="TRT Çocuk HD"  group-title="Çocuk",TRT Çocuk HD
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT Türk" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
+#EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 http://tv-trtturk.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT Belgesel" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" tvg-name="TRT Belgesel HD"  group-title="Belgesel",TRT Belgesel HD
+#EXTINF:-1, tvg-id="TRT BELGESEL HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" tvg-name="TRT Belgesel HD"  group-title="Belgesel",TRT Belgesel HD
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="STAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
