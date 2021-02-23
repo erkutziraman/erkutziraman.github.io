@@ -63,5 +63,5 @@ https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1, tvg-id="HABERTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" tvg-name="Habertürk HD"  group-title="Haber",Habertürk HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="TRT MUZIK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.35/16282aa8d75f4ac497d18b0b9bb77f5e.png" tvg-name="TRT MUZIK HD"  group-title="Haber",TRT Müzik HD
+#EXTINF:-1, tvg-id="TRT MÜZİK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.35/16282aa8d75f4ac497d18b0b9bb77f5e.png" tvg-name="TRT MÜZİK HD"  group-title="Haber",TRT Müzik HD
 https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
