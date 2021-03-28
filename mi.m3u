@@ -25,7 +25,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/chunklist_b2096000.m3u8
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
@@ -65,6 +65,3 @@ https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TRT MÜZİK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.35/16282aa8d75f4ac497d18b0b9bb77f5e.png" tvg-name="TRT MÜZİK HD"  group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1, tvg-id="ROTA TV" tvg-logo="https://www.dropbox.com/s/t9kb7bbwxwhqgbd/TV%20Logo%202.png?dl=1" tvg-name="ROTA TV HD"  group-title="Film",Rota TV HD
-https://www.dropbox.com/s/ngr3cxebcngja3e/Rota.mp4?dl=1
