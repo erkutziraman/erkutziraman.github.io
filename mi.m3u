@@ -19,13 +19,13 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="BEYAZ TV HD" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" tvg-name="BEYAZ TV HD"  group-title="Ulusal",Beyaz TV HD
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
 https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/chunklist_b2096000.m3u8
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
