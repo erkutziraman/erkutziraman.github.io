@@ -25,7 +25,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/5256
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
@@ -52,7 +52,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 
 #EXTINF:-1, tvg-id="24 TV" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
-https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1, tvg-id="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" tvg-name="DMAX HD"  group-title="Belgesel",DMAX HD
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
@@ -61,7 +61,7 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 
 #EXTINF:-1, tvg-id="HABERTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" tvg-name="Habertürk HD"  group-title="Haber",Habertürk HD
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 
 #EXTINF:-1, tvg-id="TRT MÜZİK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.35/16282aa8d75f4ac497d18b0b9bb77f5e.png" tvg-name="TRT MÜZİK HD"  group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
