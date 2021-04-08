@@ -34,10 +34,10 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+https://av.livestreamlive.xyz/hls/fox.m3u8
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
-https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
@@ -46,7 +46,7 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
 
 #EXTINF:-1, tvg-id="CNN TÜRK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TEVE2 HD" tvg-logo="https://www.demiroren.com.tr/ProjectImages/companies-image-13.png" tvg-name="Teve2 HD"  group-title="Ulusal",Teve2 HD
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
