@@ -22,7 +22,7 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 
 #EXTINF:-1, tvg-id="TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/5256
+https://www.tv8.com.tr/canli-yayin
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
