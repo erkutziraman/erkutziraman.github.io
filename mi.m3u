@@ -59,3 +59,6 @@ https://mn-nl.mncdn.com/blutv_haberturk/haberturk_sd.smil/chunklist_b2064000.m3u
 
 #EXTINF:-1, tvg-id="TRT MÜZİK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.35/16282aa8d75f4ac497d18b0b9bb77f5e.png" tvg-name="TRT MÜZİK HD"  group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
+https://www.youtube.com/watch?v=Cw3_mucKU1I
