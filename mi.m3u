@@ -13,7 +13,7 @@ http://tv-trtturk.live.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="STAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="BEYAZ TV HD" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" tvg-name="BEYAZ TV HD"  group-title="Ulusal",Beyaz TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
@@ -28,10 +28,13 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8
+http://yayin2.tvizlehd.com/atv720.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" tvg-name="TV 100 HD"  group-title="Ulusal",TV 100 HD
+https://mn-nl.mncdn.com/blutv_tv100/tv100_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
@@ -46,7 +49,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_s
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="TEVE2 HD" tvg-logo="https://www.demiroren.com.tr/ProjectImages/companies-image-13.png" tvg-name="Teve2 HD"  group-title="Ulusal",Teve2 HD
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="24 TV" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
