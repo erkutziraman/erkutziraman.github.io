@@ -6,7 +6,7 @@ https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://interaktif.trthaber.com/perseverance/wp-content/uploads/2021/02/trthaber-logo.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT SPOR" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
+#EXTINF:-1, tvg-id="TRT SPOR" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
 https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
