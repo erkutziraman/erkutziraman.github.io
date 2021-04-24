@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
+#EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
+#EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://interaktif.trthaber.com/perseverance/wp-content/uploads/2021/02/trthaber-logo.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="TRT SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
-https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1, tvg-id="TRT SPOR" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
+https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 http://tv-trtturk.live.trt.com.tr/master.m3u8
