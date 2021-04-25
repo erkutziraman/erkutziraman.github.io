@@ -77,3 +77,10 @@ https://mn-nl.mncdn.com/blutv_po/po_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="Tvnet" tvg-logo="https://www.albayrakmedya.com/wp-content/uploads/tvnet/tvnet-logo.png" tvg-name="Tvnet HD"  group-title="Haber",Tvnet HD
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Ulke TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/11/%C3%9Clke_TV_Logosu.png" tvg-name="Ulke TV HD"  group-title="Haber",Ülke TV HD
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg HT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b0/Bloomberg_HT_logosu.png" tvg-name="Bloomberg HT"  group-title="Haber",Bloomberg HT
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8
+
