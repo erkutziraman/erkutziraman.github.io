@@ -34,7 +34,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
+http://149.255.152.66:8080/atvturk/index.m3u8
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
