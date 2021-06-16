@@ -46,7 +46,7 @@ https://mn-nl.mncdn.com/blutv_tv100/tv100_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
-http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+https://mn-nl.mncdn.com/blutv_tlc/tlc_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="Powertürk HD" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=427" tvg-name="Powertürk HD"  group-title="Müzik",Powertürk HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
@@ -61,7 +61,7 @@ https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" tvg-name="DMAX HD"  group-title="Belgesel",DMAX HD
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+https://mn-nl.mncdn.com/blutv_dmax/dmax_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="HABERTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" tvg-name="Habertürk HD"  group-title="Haber",Habertürk HD
 https://mn-nl.mncdn.com/blutv_haberturk/haberturk_sd.smil/chunklist_b2064000.m3u8
