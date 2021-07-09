@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
-http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
+https://www.youtube.com/watch?v=XEJM4Hcgd3M
 
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://interaktif.trthaber.com/perseverance/wp-content/uploads/2021/02/trthaber-logo.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 https://tv-trthaber.live.trt.com.tr/master.m3u8
