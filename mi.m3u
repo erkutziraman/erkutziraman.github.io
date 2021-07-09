@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
-https://tv-trt1.live.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://interaktif.trthaber.com/perseverance/wp-content/uploads/2021/02/trthaber-logo.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="TRT SPOR HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
-https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/chunklist_b2064000.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 http://tv-trtturk.live.trt.com.tr/master.m3u8
@@ -16,25 +16,25 @@ http://tv-trtturk.live.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, tvg-id="KANAL 7 HD" tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/k7-red-logo.png" tvg-name="Kanal 7 HD"  group-title="Ulusal",Kanal 7 HD
-https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/chunklist_b2064000.m3u8
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 
 #EXTINF:-1, tvg-id="STAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_eurostar/eurostar_sd.smil/chunklist_b5064000.m3u8
 
 #EXTINF:-1, tvg-id="BEYAZ TV HD" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" tvg-name="BEYAZ TV HD"  group-title="Ulusal",Beyaz TV HD
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 
 #EXTINF:-1, tvg-id="TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
-https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/chunklist_b2096000.m3u8
+http://79.124.14.198:8088/play/a070
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+http://79.124.14.198:8088/play/a06q
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-http://149.255.152.66:8080/atvturk/index.m3u8
+http://79.124.14.198:8088/play/a0ik
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
@@ -46,7 +46,7 @@ https://mn-nl.mncdn.com/blutv_tv100/tv100_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
-https://mn-nl.mncdn.com/blutv_tlc/tlc_sd.smil/chunklist_b2064000.m3u8
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 
 #EXTINF:-1, tvg-id="Powertürk HD" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=427" tvg-name="Powertürk HD"  group-title="Müzik",Powertürk HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
@@ -61,7 +61,7 @@ https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" tvg-name="DMAX HD"  group-title="Belgesel",DMAX HD
-https://mn-nl.mncdn.com/blutv_dmax/dmax_sd.smil/chunklist_b2064000.m3u8
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 
 #EXTINF:-1, tvg-id="HABERTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" tvg-name="Habertürk HD"  group-title="Haber",Habertürk HD
 https://mn-nl.mncdn.com/blutv_haberturk/haberturk_sd.smil/chunklist_b2064000.m3u8
