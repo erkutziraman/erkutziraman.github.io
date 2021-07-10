@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
+#EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://interaktif.trthaber.com/perseverance/wp-content/uploads/2021/02/trthaber-logo.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
+#EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 plugin://plugin.video.youtube/play/?video_id=xQH1bMIzWD0
 
 #EXTINF:-1, tvg-id="TRT SPOR HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
@@ -36,13 +36,13 @@ plugin://plugin.video.youtube/play/?video_id=rtMDAEQgyl8
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 
-#EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
+#EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://www.seekpng.com/png/full/8-87435_fox-tv-logo-png-fox.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 plugin://plugin.video.youtube/play/?video_id=kv_hci_lb4k
 
 #EXTINF:-1, tvg-id="TV100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" tvg-name="TV100 HD"  group-title="Ulusal",TV100 HD
 plugin://plugin.video.youtube/play/?video_id=8jEXHzMTR7s
 
-#EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
+#EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://www.dogusyayingrubu.com.tr/assets/Files/Logo/logo_tv_ntv.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
 plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
