@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="TRT 1 HD" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" tvg-name="TRT 1 HD"  group-title="Ulusal",TRT 1 HD
-plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="https://interaktif.trthaber.com/perseverance/wp-content/uploads/2021/02/trthaber-logo.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
-https://tv-trthaber.live.trt.com.tr/master.m3u8
+plugin://plugin.video.youtube/play/?video_id=xQH1bMIzWD0
 
 #EXTINF:-1, tvg-id="TRT SPOR HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
@@ -19,31 +19,31 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 
 #EXTINF:-1, tvg-id="STAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=ue74RPkbY44
 
 #EXTINF:-1, tvg-id="BEYAZ TV HD" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" tvg-name="BEYAZ TV HD"  group-title="Ulusal",Beyaz TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 
 #EXTINF:-1, tvg-id="TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8 HD"  group-title="Ulusal",TV 8 HD
-http://yayin2.tvizlehd.com/tv8720.m3u8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://av.livestreamlive.xyz/hls/kanald.m3u8
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=rtMDAEQgyl8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-http://yayin2.tvizlehd.com/atv720.m3u8
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+plugin://plugin.video.youtube/play/?video_id=kv_hci_lb4k
 
 #EXTINF:-1, tvg-id="TV100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" tvg-name="TV100 HD"  group-title="Ulusal",TV100 HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+plugin://plugin.video.youtube/play/?video_id=8jEXHzMTR7s
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV HD"  group-title="Haber",NTV HD
-https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
 
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
@@ -52,35 +52,26 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
 
 #EXTINF:-1, tvg-id="CNN TÜRK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
-http://79.124.14.198:8088/play/a06r
+plugin://plugin.video.youtube/play/?video_id=X_EWYemclKA
 
 #EXTINF:-1, tvg-id="TEVE2 HD" tvg-logo="https://www.demiroren.com.tr/ProjectImages/companies-image-13.png" tvg-name="Teve2 HD"  group-title="Ulusal",Teve2 HD
-https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
+plugin://plugin.video.youtube/play/?video_id=7QBYC9kdg-g
 
 #EXTINF:-1, tvg-id="24 TV" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
-https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=olCqBix6QrY
 
 #EXTINF:-1, tvg-id="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" tvg-name="DMAX HD"  group-title="Belgesel",DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 
 #EXTINF:-1, tvg-id="HABERTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" tvg-name="Habertürk HD"  group-title="Haber",Habertürk HD
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-
-#EXTINF:-1, tvg-id="TRT MÜZİK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.35/16282aa8d75f4ac497d18b0b9bb77f5e.png" tvg-name="TRT MÜZİK HD"  group-title="Müzik",TRT Müzik HD
-http://tv-trtmuzik.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1, tvg-id="Blutv Aksiyon HD" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cd52866ac30eac569581" tvg-name="Blutv Aksiyon HD"  group-title="Ulusal",Blutv Aksiyon HD
-https://mn-nl.mncdn.com/blutv_playout/playout_hd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1, tvg-id="Blutv Komedi HD" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cdaf866ac30eac56958e" tvg-name="Blutv Komedi HD"  group-title="Ulusal",Blutv Komedi HD
-https://mn-nl.mncdn.com/blutv_po/po_sd.smil/chunklist_b2064000.m3u8
+plugin://plugin.video.youtube/play/?video_id=SqHIO2zhxbA
 
 #EXTINF:-1, tvg-id="Tvnet" tvg-logo="https://www.albayrakmedya.com/wp-content/uploads/tvnet/tvnet-logo.png" tvg-name="Tvnet HD"  group-title="Haber",Tvnet HD
-https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=4_RuVzZvme8
 
 #EXTINF:-1, tvg-id="Ulke TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/11/%C3%9Clke_TV_Logosu.png" tvg-name="Ulke TV HD"  group-title="Haber",Ülke TV HD
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+plugin://plugin.video.youtube/play/?video_id=HBgl4bnXH0s
 
 #EXTINF:-1, tvg-id="Bloomberg HT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b0/Bloomberg_HT_logosu.png" tvg-name="Bloomberg HT"  group-title="Haber",Bloomberg HT
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=XkF99-AicIA
 
