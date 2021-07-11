@@ -60,5 +60,5 @@ plugin://plugin.video.youtube/play/?video_id=SqHIO2zhxbA
 #EXTINF:-1, tvg-id="TVNET HD" tvg-logo="https://www.albayrakmedya.com/wp-content/uploads/tvnet/tvnet-logo.png" tvg-name="Tvnet HD"  group-title="Haber",Tvnet HD
 plugin://plugin.video.youtube/play/?video_id=4_RuVzZvme8
 
-#EXTINF:-1, tvg-id="Joyturk" tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/logo_web_female.png?v=180520030946" tvg-name="Joyturk"  group-title="Müzik",JoyTurk
+#EXTINF:-1, tvg-id="Joyturk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/61/JoyTurk_logosu.png" tvg-name="Joyturk"  group-title="Müzik",JoyTurk
 plugin://plugin.video.youtube/play/?video_id=brx__3ef0hA
