@@ -60,8 +60,5 @@ plugin://plugin.video.youtube/play/?video_id=SqHIO2zhxbA
 #EXTINF:-1, tvg-id="Tvnet" tvg-logo="https://www.albayrakmedya.com/wp-content/uploads/tvnet/tvnet-logo.png" tvg-name="Tvnet HD"  group-title="Haber",Tvnet HD
 plugin://plugin.video.youtube/play/?video_id=4_RuVzZvme8
 
-#EXTINF:-1, tvg-id="Bloomberg HT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b0/Bloomberg_HT_logosu.png" tvg-name="Bloomberg HT"  group-title="Haber",Bloomberg HT
-plugin://plugin.video.youtube/play/?video_id=XkF99-AicIA
-
 #EXTINF:-1, tvg-id="Joyturk" tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/logo_web_female.png?v=180520030946" tvg-name="Joyturk"  group-title="Müzik",JoyTurk
 plugin://plugin.video.youtube/play/?video_id=brx__3ef0hA
