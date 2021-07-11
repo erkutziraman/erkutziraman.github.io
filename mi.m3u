@@ -6,9 +6,6 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
 plugin://plugin.video.youtube/play/?video_id=xQH1bMIzWD0
 
-#EXTINF:-1, tvg-id="TRT SPOR HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" tvg-name="TRT Spor HD"  group-title="Spor",TRT Spor HD
-https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-
 #EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 http://tv-trtturk.live.trt.com.tr/master.m3u8
 
@@ -28,7 +25,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://mn-nl.mncdn.com/blutv_eurod/smil:eurod_sd.smil/chunklist_b2096000.m3u8
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
 plugin://plugin.video.youtube/play/?video_id=rtMDAEQgyl8
@@ -48,9 +45,6 @@ plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
 #EXTINF:-1, tvg-id="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" tvg-name="TLC HD"  group-title="Ulusal",TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 
-#EXTINF:-1, tvg-id="Powertürk HD" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=427" tvg-name="Powertürk HD"  group-title="Müzik",Powertürk HD
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
-
 #EXTINF:-1, tvg-id="CNN TÜRK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-name="CNN Türk HD"  group-title="Haber",CNN Türk HD
 plugin://plugin.video.youtube/play/?video_id=X_EWYemclKA
 
@@ -68,3 +62,6 @@ plugin://plugin.video.youtube/play/?video_id=4_RuVzZvme8
 
 #EXTINF:-1, tvg-id="Bloomberg HT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b0/Bloomberg_HT_logosu.png" tvg-name="Bloomberg HT"  group-title="Haber",Bloomberg HT
 plugin://plugin.video.youtube/play/?video_id=XkF99-AicIA
+
+#EXTINF:-1, tvg-id="Joyturk" tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/logo_web_female.png?v=180520030946" tvg-name="Joyturk"  group-title="Müzik",JoyTurk
+plugin://plugin.video.youtube/play/?video_id=brx__3ef0hA
