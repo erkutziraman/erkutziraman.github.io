@@ -28,13 +28,13 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
 plugin://plugin.video.youtube/play/?video_id=rtMDAEQgyl8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" tvg-name="ATV HD"  group-title="Ulusal",ATV HD
-http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+plugin://plugin.video.youtube/play/?video_id=K7TWa2SSK-w
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://www.seekpng.com/png/full/8-87435_fox-tv-logo-png-fox.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
 plugin://plugin.video.youtube/play/?video_id=kv_hci_lb4k
@@ -57,9 +57,6 @@ plugin://plugin.video.youtube/play/?video_id=X_EWYemclKA
 #EXTINF:-1, tvg-id="TEVE2 HD" tvg-logo="https://www.demiroren.com.tr/ProjectImages/companies-image-13.png" tvg-name="Teve2 HD"  group-title="Ulusal",Teve2 HD
 plugin://plugin.video.youtube/play/?video_id=7QBYC9kdg-g
 
-#EXTINF:-1, tvg-id="24 TV" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/06/04/d3c3a5512535.png" tvg-name="24 HD"  group-title="Haber",24 HD
-plugin://plugin.video.youtube/play/?video_id=olCqBix6QrY
-
 #EXTINF:-1, tvg-id="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" tvg-name="DMAX HD"  group-title="Belgesel",DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 
@@ -69,9 +66,5 @@ plugin://plugin.video.youtube/play/?video_id=SqHIO2zhxbA
 #EXTINF:-1, tvg-id="Tvnet" tvg-logo="https://www.albayrakmedya.com/wp-content/uploads/tvnet/tvnet-logo.png" tvg-name="Tvnet HD"  group-title="Haber",Tvnet HD
 plugin://plugin.video.youtube/play/?video_id=4_RuVzZvme8
 
-#EXTINF:-1, tvg-id="Ulke TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/11/%C3%9Clke_TV_Logosu.png" tvg-name="Ulke TV HD"  group-title="Haber",Ülke TV HD
-plugin://plugin.video.youtube/play/?video_id=HBgl4bnXH0s
-
 #EXTINF:-1, tvg-id="Bloomberg HT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b0/Bloomberg_HT_logosu.png" tvg-name="Bloomberg HT"  group-title="Haber",Bloomberg HT
 plugin://plugin.video.youtube/play/?video_id=XkF99-AicIA
-
