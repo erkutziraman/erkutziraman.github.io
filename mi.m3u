@@ -25,7 +25,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 
 #EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kanal_D_%281994-.n.v.%29.png/800px-Kanal_D_%281994-.n.v.%29.png" tvg-name="Kanal D HD"  group-title="Ulusal",Kanal D HD
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000kbs/index.m3u8
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_540p1250kbs/index.m3u8
 
 #EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" tvg-name="Show TV HD"  group-title="Ulusal",Show TV HD
 plugin://plugin.video.youtube/play/?video_id=rtMDAEQgyl8
@@ -34,7 +34,7 @@ plugin://plugin.video.youtube/play/?video_id=rtMDAEQgyl8
 plugin://plugin.video.youtube/play/?video_id=K7TWa2SSK-w
 
 #EXTINF:-1, tvg-id="FOX HD" tvg-logo="https://www.seekpng.com/png/full/8-87435_fox-tv-logo-png-fox.png" tvg-name="FOX HD"  group-title="Ulusal",FOX HD
-https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000kbs/index.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_540p1250kbs/index.m3u8
 
 #EXTINF:-1, tvg-id="TV100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" tvg-name="TV100 HD"  group-title="Ulusal",TV100 HD
 plugin://plugin.video.youtube/play/?video_id=8jEXHzMTR7s
