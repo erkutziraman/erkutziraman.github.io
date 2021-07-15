@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
-plugin://plugin.video.youtube/play/?video_id=xQH1bMIzWD0
+plugin://plugin.video.youtube/play/?video_id=3O8CY0L-VnU
 
 #EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 http://tv-trtturk.live.trt.com.tr/master.m3u8
