@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
-plugin://plugin.video.youtube/play/?video_id=3O8CY0L-VnU
+plugin://plugin.video.youtube/play/?video_id=WiG89pBcGm0
 
 #EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 http://tv-trtturk.live.trt.com.tr/master.m3u8
@@ -49,7 +49,7 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 plugin://plugin.video.youtube/play/?video_id=X_EWYemclKA
 
 #EXTINF:-1, tvg-id="TEVE2 HD" tvg-logo="https://www.demiroren.com.tr/ProjectImages/companies-image-13.png" tvg-name="Teve2 HD"  group-title="Ulusal",Teve2 HD
-plugin://plugin.video.youtube/play/?video_id=7QBYC9kdg-g
+plugin://plugin.video.youtube/play/?video_id=Zzeq9_I1ygM
 
 #EXTINF:-1, tvg-id="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" tvg-name="DMAX HD"  group-title="Belgesel",DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
