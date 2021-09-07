@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2020-10-13-20.48.21/22a73f58e06e4979827002c9463e196d.png" tvg-name="TRT Haber HD"  group-title="Haber",TRT Haber HD
-plugin://plugin.video.youtube/play/?video_id=6ov718UXJ54
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1, tvg-id="TRT TÜRK" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png" tvg-name="TRT Türk HD"  group-title="Ulusal",TRT Türk HD
 http://tv-trtturk.live.trt.com.tr/master.m3u8
@@ -16,7 +16,7 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 
 #EXTINF:-1, tvg-id="STAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/881px-StarTV.svg.png" tvg-name="Star TV HD"  group-title="Ulusal",Star TV HD
-plugin://plugin.video.youtube/play/?video_id=vKxjd5-KCEc
+https://stream-06.dc3.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrXBgSjEIfINzyA56A4YiBxU)/dm/3/x729whv/s/live-3.m3u8
 
 #EXTINF:-1, tvg-id="BEYAZ TV HD" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" tvg-name="BEYAZ TV HD"  group-title="Ulusal",Beyaz TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
